@@ -919,6 +919,11 @@ section .container {
   background-color: #18d26e;
 }
 
+.portfolio-details img {
+  width: 70%;
+  height: 70%;
+}
+
 /*
 .portfolio-container #img{
   width: 100%;
